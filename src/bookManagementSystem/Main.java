@@ -15,7 +15,6 @@ public class Main {
         Author author4 = new Author(4L, "Alice", "Johnson");
         Author author5 = new Author(5L, "Michael", "Brown");
 
-        // Kitapları oluştur ve ekle
         Book book1 = new Book(1L, "Peace", author1);
         Book book2 = new Book(2L, "Harmony", author2);
         Book book3 = new Book(3L, "Adventure", author3);
